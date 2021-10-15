@@ -1,0 +1,6 @@
+﻿  UBUNTU_Game.cpp
+C:\Users\User\OneDrive\Documents\UBUNTU_Game\UBUNTU_Game\UBUNTU_Game.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\OneDrive\Documents\UBUNTU_Game\UBUNTU_Game\UBUNTU_Game.cpp(50,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\OneDrive\Documents\UBUNTU_Game\UBUNTU_Game\UBUNTU_Game.cpp(103,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\OneDrive\Documents\UBUNTU_Game\UBUNTU_Game\UBUNTU_Game.cpp(138,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  UBUNTU_Game.vcxproj -> C:\Users\User\OneDrive\Documents\UBUNTU_Game\Debug\UBUNTU_Game.exe

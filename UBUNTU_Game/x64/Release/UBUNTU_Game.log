@@ -1,0 +1,8 @@
+﻿  UBUNTU_Game.cpp
+C:\Users\User\OneDrive\Documents\UBUNTU_Game\UBUNTU_Game\UBUNTU_Game.cpp(7,9): warning C4101: 'option': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 28 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\User\OneDrive\Documents\UBUNTU_Game\UBUNTU_Game\UBUNTU_Game.cpp(13): warning C4724: potential mod by 0
+  Finished generating code
+  UBUNTU_Game.vcxproj -> C:\Users\User\OneDrive\Documents\UBUNTU_Game\x64\Release\UBUNTU_Game.exe
